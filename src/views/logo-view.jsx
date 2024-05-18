@@ -14,7 +14,7 @@ export default class LogoView extends React.PureComponent {
         <div>
           <a href="https://github.com/tinode/chat/">
             <img id="logo" alt="logo" src="img/logo.svg" />
-            <h2>Tinode Web</h2>
+            <h2>Tinode Web Test</h2>
           </a>
           <p><FormattedMessage id="label_client" defaultMessage="Client:"
             description="Label for a client version" /> {version}</p>
